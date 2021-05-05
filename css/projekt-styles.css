@@ -1,0 +1,28 @@
+.navbar {
+    background-color: transparent;
+    box-shadow: 0px 1px 20px #eaeaea;
+    transition: background-color 1s ease 0s;
+}
+
+.navbar.solid {
+    transition: background-color 1s ease 0s;
+}
+
+.site-footer {
+    background-image: linear-gradient(#f0eeff, white);
+    padding: 20px 0; 
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, #5637dd, #3046C5, color-dark); }
+  
+  .row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px; 
+}
+
+
+  
